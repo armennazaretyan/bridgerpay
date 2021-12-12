@@ -8,3 +8,14 @@ C:\Users\Armen_Nazaretyan\source\repos\DummyPayLibrary\Dumdumpay.Payment.Getway\
 C:\Users\Armen_Nazaretyan\source\repos\DummyPayLibrary\Dumdumpay.Payment.Getway\obj\Debug\netcoreapp2.1\Dumdumpay.Payment.Getway.csproj.CoreCompileInputs.cache
 C:\Users\Armen_Nazaretyan\source\repos\DummyPayLibrary\Dumdumpay.Payment.Getway\obj\Debug\netcoreapp2.1\Dumdumpay.Payment.Getway.dll
 C:\Users\Armen_Nazaretyan\source\repos\DummyPayLibrary\Dumdumpay.Payment.Getway\obj\Debug\netcoreapp2.1\Dumdumpay.Payment.Getway.pdb
+C:\Users\Armen_Nazaretyan\source\repos\bridgerpay\Dumdumpay.Payment.Getway\bin\Debug\netcoreapp2.1\Dumdumpay.Payment.Getway.dll.config
+C:\Users\Armen_Nazaretyan\source\repos\bridgerpay\Dumdumpay.Payment.Getway\bin\Debug\netcoreapp2.1\Dumdumpay.Payment.Getway.deps.json
+C:\Users\Armen_Nazaretyan\source\repos\bridgerpay\Dumdumpay.Payment.Getway\bin\Debug\netcoreapp2.1\Dumdumpay.Payment.Getway.dll
+C:\Users\Armen_Nazaretyan\source\repos\bridgerpay\Dumdumpay.Payment.Getway\bin\Debug\netcoreapp2.1\Dumdumpay.Payment.Getway.pdb
+C:\Users\Armen_Nazaretyan\source\repos\bridgerpay\Dumdumpay.Payment.Getway\obj\Debug\netcoreapp2.1\Dumdumpay.Payment.Getway.csproj.AssemblyReference.cache
+C:\Users\Armen_Nazaretyan\source\repos\bridgerpay\Dumdumpay.Payment.Getway\obj\Debug\netcoreapp2.1\Dumdumpay.Payment.Getway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armen_Nazaretyan\source\repos\bridgerpay\Dumdumpay.Payment.Getway\obj\Debug\netcoreapp2.1\Dumdumpay.Payment.Getway.AssemblyInfoInputs.cache
+C:\Users\Armen_Nazaretyan\source\repos\bridgerpay\Dumdumpay.Payment.Getway\obj\Debug\netcoreapp2.1\Dumdumpay.Payment.Getway.AssemblyInfo.cs
+C:\Users\Armen_Nazaretyan\source\repos\bridgerpay\Dumdumpay.Payment.Getway\obj\Debug\netcoreapp2.1\Dumdumpay.Payment.Getway.csproj.CoreCompileInputs.cache
+C:\Users\Armen_Nazaretyan\source\repos\bridgerpay\Dumdumpay.Payment.Getway\obj\Debug\netcoreapp2.1\Dumdumpay.Payment.Getway.dll
+C:\Users\Armen_Nazaretyan\source\repos\bridgerpay\Dumdumpay.Payment.Getway\obj\Debug\netcoreapp2.1\Dumdumpay.Payment.Getway.pdb

@@ -7,3 +7,12 @@ C:\Users\Armen_Nazaretyan\source\repos\DummyPayLibrary\DependencyInjectionLibrar
 C:\Users\Armen_Nazaretyan\source\repos\DummyPayLibrary\DependencyInjectionLibrary\obj\Debug\netcoreapp2.2\DependencyInjectionLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Armen_Nazaretyan\source\repos\DummyPayLibrary\DependencyInjectionLibrary\obj\Debug\netcoreapp2.2\DependencyInjectionLibrary.dll
 C:\Users\Armen_Nazaretyan\source\repos\DummyPayLibrary\DependencyInjectionLibrary\obj\Debug\netcoreapp2.2\DependencyInjectionLibrary.pdb
+C:\Users\Armen_Nazaretyan\source\repos\bridgerpay\DependencyInjectionLibrary\bin\Debug\netcoreapp2.2\DependencyInjectionLibrary.deps.json
+C:\Users\Armen_Nazaretyan\source\repos\bridgerpay\DependencyInjectionLibrary\bin\Debug\netcoreapp2.2\DependencyInjectionLibrary.dll
+C:\Users\Armen_Nazaretyan\source\repos\bridgerpay\DependencyInjectionLibrary\bin\Debug\netcoreapp2.2\DependencyInjectionLibrary.pdb
+C:\Users\Armen_Nazaretyan\source\repos\bridgerpay\DependencyInjectionLibrary\obj\Debug\netcoreapp2.2\DependencyInjectionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armen_Nazaretyan\source\repos\bridgerpay\DependencyInjectionLibrary\obj\Debug\netcoreapp2.2\DependencyInjectionLibrary.AssemblyInfoInputs.cache
+C:\Users\Armen_Nazaretyan\source\repos\bridgerpay\DependencyInjectionLibrary\obj\Debug\netcoreapp2.2\DependencyInjectionLibrary.AssemblyInfo.cs
+C:\Users\Armen_Nazaretyan\source\repos\bridgerpay\DependencyInjectionLibrary\obj\Debug\netcoreapp2.2\DependencyInjectionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Armen_Nazaretyan\source\repos\bridgerpay\DependencyInjectionLibrary\obj\Debug\netcoreapp2.2\DependencyInjectionLibrary.dll
+C:\Users\Armen_Nazaretyan\source\repos\bridgerpay\DependencyInjectionLibrary\obj\Debug\netcoreapp2.2\DependencyInjectionLibrary.pdb
