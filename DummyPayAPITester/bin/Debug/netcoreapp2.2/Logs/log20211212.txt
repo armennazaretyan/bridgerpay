@@ -1,0 +1,4 @@
+2021-12-12 17:41:52.704 +04:00 [WRN] Here's a Warning message.
+2021-12-12 17:41:52.704 +04:00 [ERR] Here's an Error message.
+System.Exception: This is an exception.
+2021-12-12 17:41:52.704 +04:00 [FTL] Here's a Fatal message.

@@ -1,0 +1,16 @@
+C:\Users\Armen_Nazaretyan\source\repos\DummyPayLibrary\DummyPayLibrary\bin\Debug\netcoreapp2.2\DummyPayLibrary.deps.json
+C:\Users\Armen_Nazaretyan\source\repos\DummyPayLibrary\DummyPayLibrary\bin\Debug\netcoreapp2.2\DummyPayLibrary.dll
+C:\Users\Armen_Nazaretyan\source\repos\DummyPayLibrary\DummyPayLibrary\bin\Debug\netcoreapp2.2\DummyPayLibrary.pdb
+C:\Users\Armen_Nazaretyan\source\repos\DummyPayLibrary\DummyPayLibrary\bin\Debug\netcoreapp2.2\Dumdumpay.Payment.Getway.dll
+C:\Users\Armen_Nazaretyan\source\repos\DummyPayLibrary\DummyPayLibrary\bin\Debug\netcoreapp2.2\Dumdumpay.Payment.Getway.pdb
+C:\Users\Armen_Nazaretyan\source\repos\DummyPayLibrary\DummyPayLibrary\bin\Debug\netcoreapp2.2\Dumdumpay.Payment.Getway.dll.config
+C:\Users\Armen_Nazaretyan\source\repos\DummyPayLibrary\DummyPayLibrary\obj\Debug\netcoreapp2.2\DummyPayLibrary.csproj.AssemblyReference.cache
+C:\Users\Armen_Nazaretyan\source\repos\DummyPayLibrary\DummyPayLibrary\obj\Debug\netcoreapp2.2\DummyPayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armen_Nazaretyan\source\repos\DummyPayLibrary\DummyPayLibrary\obj\Debug\netcoreapp2.2\DummyPayLibrary.AssemblyInfoInputs.cache
+C:\Users\Armen_Nazaretyan\source\repos\DummyPayLibrary\DummyPayLibrary\obj\Debug\netcoreapp2.2\DummyPayLibrary.AssemblyInfo.cs
+C:\Users\Armen_Nazaretyan\source\repos\DummyPayLibrary\DummyPayLibrary\obj\Debug\netcoreapp2.2\DummyPayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Armen_Nazaretyan\source\repos\DummyPayLibrary\DummyPayLibrary\obj\Debug\netcoreapp2.2\DummyPayLibrary.csproj.CopyComplete
+C:\Users\Armen_Nazaretyan\source\repos\DummyPayLibrary\DummyPayLibrary\obj\Debug\netcoreapp2.2\DummyPayLibrary.dll
+C:\Users\Armen_Nazaretyan\source\repos\DummyPayLibrary\DummyPayLibrary\obj\Debug\netcoreapp2.2\DummyPayLibrary.pdb
+C:\Users\Armen_Nazaretyan\source\repos\DummyPayLibrary\DummyPayLibrary\bin\Debug\netcoreapp2.2\DependencyInjectionLibrary.dll
+C:\Users\Armen_Nazaretyan\source\repos\DummyPayLibrary\DummyPayLibrary\bin\Debug\netcoreapp2.2\DependencyInjectionLibrary.pdb
