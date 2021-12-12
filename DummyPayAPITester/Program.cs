@@ -22,7 +22,7 @@ namespace DummyPayAPITester
                 ServiceDIBuilder.Register();
                 Log.Information("Dipendency injection successfully registered.");
 
-                Log.Verbose("Getting Dummy Payment API."); 
+                Log.Verbose("Getting Dummy Payment API.");
                 IDummyPayAPI dummyPayAPI = ServiceDIBuilder.Build();
                 Log.Information("DummyPayAPI successfully created.");
 
