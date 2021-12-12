@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "equCcPjnipvhKhK67MzyblgW+a5h4Zi0Ok5lkEhIbSzIjtHAxioov5OEDNYNkb+nRxH4kU+RMV07u0C2o1RMhg==",
+  "dgSpecHash": "txAWqae4wj5hIwVmVXLkD+hYRPfjGeYFMBSbRoP64fH0mtplz1cV7Lv4H/p6j5LcliprADi9gUzKOL/2EuX46Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\DummyPayLibrary\\DependencyInjectionLibrary\\DependencyInjectionLibrary.csproj",
+  "projectFilePath": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\bridgerpay\\DependencyInjectionLibrary\\DependencyInjectionLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Armen_Nazaretyan\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Users\\Armen_Nazaretyan\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",

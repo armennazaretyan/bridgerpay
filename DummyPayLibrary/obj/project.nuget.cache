@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N6w2wT74uL1v7gFDJ26ypm2WeFVh/+f6ThrfrdQhMiGF36q2Lspyvg4XbwEUHE8hooSMFAxbtFo5rdPu7u0+OA==",
+  "dgSpecHash": "Z+mengtrzyx841Lu6woJNZ+Wq/5zOGsIbEBQVELjzC8DN4sWLTt4FYzrlgiSqDmQFM8zP6DtpKjetJg7Wj3HeQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\DummyPayLibrary\\DummyPayLibrary\\DummyPayLibrary.csproj",
+  "projectFilePath": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\bridgerpay\\DummyPayLibrary\\DummyPayLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Armen_Nazaretyan\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Users\\Armen_Nazaretyan\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",

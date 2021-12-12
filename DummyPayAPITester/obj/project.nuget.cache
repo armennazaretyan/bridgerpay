@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nUJ/8kBbyNNKVgKf5DmQoWimWhnvRM0sXIfhWe2eaNGvWH+9RrQHVL2VznAO1osnOU2D70F5HmNcadHRSHo4Lw==",
+  "dgSpecHash": "eZAq3Yc7+CiBwx8OHJ8hQkg6M+TFvV0kR/5xy5dQXj/Mzdg11SeldOWKwWT/O2/fjVzvQX+JV2owr4c/mYbsCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\DummyPayLibrary\\DummyPayAPITester\\DummyPayAPITester.csproj",
+  "projectFilePath": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\bridgerpay\\DummyPayAPITester\\DummyPayAPITester.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Armen_Nazaretyan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
     "C:\\Users\\Armen_Nazaretyan\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.0\\microsoft.extensions.configuration.3.0.0.nupkg.sha512",

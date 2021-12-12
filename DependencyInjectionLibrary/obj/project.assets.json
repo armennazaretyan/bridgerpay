@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\DummyPayLibrary\\DependencyInjectionLibrary\\DependencyInjectionLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\bridgerpay\\DependencyInjectionLibrary\\DependencyInjectionLibrary.csproj",
       "projectName": "DependencyInjectionLibrary",
-      "projectPath": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\DummyPayLibrary\\DependencyInjectionLibrary\\DependencyInjectionLibrary.csproj",
+      "projectPath": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\bridgerpay\\DependencyInjectionLibrary\\DependencyInjectionLibrary.csproj",
       "packagesPath": "C:\\Users\\Armen_Nazaretyan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\DummyPayLibrary\\DependencyInjectionLibrary\\obj\\",
+      "outputPath": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\bridgerpay\\DependencyInjectionLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Armen_Nazaretyan\\AppData\\Roaming\\NuGet\\NuGet.Config",

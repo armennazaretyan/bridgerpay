@@ -731,11 +731,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\DummyPayLibrary\\Dumdumpay.Payment.Getway\\Dumdumpay.Payment.Getway.csproj",
+      "projectUniqueName": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\bridgerpay\\Dumdumpay.Payment.Getway\\Dumdumpay.Payment.Getway.csproj",
       "projectName": "Dumdumpay.Payment.Getway",
-      "projectPath": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\DummyPayLibrary\\Dumdumpay.Payment.Getway\\Dumdumpay.Payment.Getway.csproj",
+      "projectPath": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\bridgerpay\\Dumdumpay.Payment.Getway\\Dumdumpay.Payment.Getway.csproj",
       "packagesPath": "C:\\Users\\Armen_Nazaretyan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\DummyPayLibrary\\Dumdumpay.Payment.Getway\\obj\\",
+      "outputPath": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\bridgerpay\\Dumdumpay.Payment.Getway\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Armen_Nazaretyan\\AppData\\Roaming\\NuGet\\NuGet.Config",

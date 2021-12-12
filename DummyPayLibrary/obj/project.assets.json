@@ -764,11 +764,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\DummyPayLibrary\\DummyPayLibrary\\DummyPayLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\bridgerpay\\DummyPayLibrary\\DummyPayLibrary.csproj",
       "projectName": "DummyPayLibrary",
-      "projectPath": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\DummyPayLibrary\\DummyPayLibrary\\DummyPayLibrary.csproj",
+      "projectPath": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\bridgerpay\\DummyPayLibrary\\DummyPayLibrary.csproj",
       "packagesPath": "C:\\Users\\Armen_Nazaretyan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\DummyPayLibrary\\DummyPayLibrary\\obj\\",
+      "outputPath": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\bridgerpay\\DummyPayLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Armen_Nazaretyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -785,11 +785,11 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "C:\\Users\\Armen_Nazaretyan\\source\\repos\\DummyPayLibrary\\DependencyInjectionLibrary\\DependencyInjectionLibrary.csproj": {
-              "projectPath": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\DummyPayLibrary\\DependencyInjectionLibrary\\DependencyInjectionLibrary.csproj"
+            "C:\\Users\\Armen_Nazaretyan\\source\\repos\\bridgerpay\\DependencyInjectionLibrary\\DependencyInjectionLibrary.csproj": {
+              "projectPath": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\bridgerpay\\DependencyInjectionLibrary\\DependencyInjectionLibrary.csproj"
             },
-            "C:\\Users\\Armen_Nazaretyan\\source\\repos\\DummyPayLibrary\\Dumdumpay.Payment.Getway\\Dumdumpay.Payment.Getway.csproj": {
-              "projectPath": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\DummyPayLibrary\\Dumdumpay.Payment.Getway\\Dumdumpay.Payment.Getway.csproj"
+            "C:\\Users\\Armen_Nazaretyan\\source\\repos\\bridgerpay\\Dumdumpay.Payment.Getway\\Dumdumpay.Payment.Getway.csproj": {
+              "projectPath": "C:\\Users\\Armen_Nazaretyan\\source\\repos\\bridgerpay\\Dumdumpay.Payment.Getway\\Dumdumpay.Payment.Getway.csproj"
             }
           }
         }
